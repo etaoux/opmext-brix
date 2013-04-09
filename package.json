@@ -1,0 +1,16 @@
+{
+  "name": "opmext-brix",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+  	"mkdirp": "*",
+  	"wrench": "*",
+  	"semver": "*",
+  	"mustache": "*",
+  	"commander": "*"
+  }
+}
